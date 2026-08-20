@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18b97f10e092b4ec1b039241bc04e44a, type: 3}
+  m_Name: CarPrototypeHudLayout
+  m_EditorClassIdentifier: Assembly-CSharp::CarPrototypeHudLayout
+  sceneCameraPosition: {x: 0, y: 15.4, z: -8.7}
+  sceneCameraLookAt: {x: 0, y: 0, z: -1.1}
+  sceneCameraOrthographicSize: 9.25
+  sceneBoardFirstRowZ: 2.3
+  scenePieceScale3x3: 0.68
+  scenePieceScale4x4: 0.66
+  scenePieceScale5x5: 0.53
+  sceneLimousineOffBoardScale: 0.48
+  sceneAsphaltGroundPosition: {x: 0, y: -0.58, z: -3.5}
+  sceneAsphaltGroundSize: {x: 16, y: 0.36, z: 30}
+  sceneRoadCenterZ: -2.2
+  sceneRoadDepth: 17.6
+  sceneBackgroundAsphaltColor: {r: 1, g: 1, b: 1, a: 1}
+  scenePlayfieldAsphaltColor: {r: 1, g: 1, b: 1, a: 1}
+  sceneRoadBorderColor: {r: 0.47, g: 0.48, b: 0.49, a: 1}
+  sceneMatchTrayPosition: {x: 0, y: -5.65}
+  sceneMatchTraySlotSpacing: 1.3928572
+  sceneMatchTrayBaySize: {x: 1.3928572, y: 2.3}
+  sceneSideParkingPosition: {x: 0, y: -9.5}
+  sceneSideParkingSize: {x: 3.05, y: 1.3}
+  sceneParkingLineWidth: 0.085
+  sceneSideParkingHatchSpacing: 0.24
+  levelPillPosition: {x: 0, y: 820}
+  levelPillSize: {x: 450, y: 170}
+  levelTextPosition: {x: 0, y: 820}
+  levelTextSize: {x: 360, y: 90}
+  levelTextFontSize: 55
+  mainMenuPlayPosition: {x: 0, y: -500}
+  mainMenuPlaySize: {x: 640, y: 190}
+  mainMenuPlayText: PLAY
+  mainMenuPlayFontSize: 74
+  mainMenuDemoPosition: {x: 0, y: -660}
+  mainMenuDemoSize: {x: 500, y: 110}
+  mainMenuDemoText: DEMO
+  mainMenuDemoFontSize: 42
+  mainMenuShopTabPosition: {x: -390, y: -1005}
+  mainMenuHomeTabPosition: {x: 0, y: -1005}
+  mainMenuLockedTabPosition: {x: 390, y: -1005}
+  mainMenuTabSize: {x: 430, y: 300}
+  mainMenuTallTabSize: {x: 470, y: 430}
+  mainMenuSelectedTabOffset: {x: 0, y: 65}
+  mainMenuSelectedLabelOffset: {x: 0, y: -145}
+  mainMenuSelectedLabelSize: {x: 260, y: 70}
+  mainMenuSelectedLabelFontSize: 42
+  redObjectiveCarPosition: {x: -365, y: 855}
+  greenObjectiveCarPosition: {x: -365, y: 777}
+  blueObjectiveCarPosition: {x: -365, y: 699}
+  yellowObjectiveCarPosition: {x: -365, y: 621}
+  objectiveCarSize: {x: 88, y: 74}
+  redObjectiveStatusPosition: {x: -270, y: 855}
+  greenObjectiveStatusPosition: {x: -270, y: 777}
+  blueObjectiveStatusPosition: {x: -270, y: 699}
+  yellowObjectiveStatusPosition: {x: -270, y: 621}
+  objectiveStatusSize: {x: 86, y: 64}
+  objectiveCheckSize: {x: 58, y: 58}
+  objectiveStatusFontSize: 46
+  heartsPosition: {x: 0, y: 680}
+  heartSize: {x: 82, y: 82}
+  heartSpacing: 92
+  heartLossFallDistance: 160
+  heartLossDuration: 0.58
+  extraSlotPosition: {x: -80, y: -765}
+  undoPosition: {x: 80, y: -765}
+  boosterSize: {x: 126, y: 126}
+  pausePosition: {x: 390, y: 820}
+  pauseSize: {x: 126, y: 126}
+  showLevelPreviewButtons: 1
+  previousLevelPosition: {x: 365, y: -555}
+  nextLevelPosition: {x: 365, y: -655}
+  levelPreviewButtonSize: {x: 150, y: 64}
+  settingsPanelPosition: {x: 0, y: 0}
+  settingsPanelSize: {x: 956, y: 2071}
+  settingsTitlePosition: {x: 0, y: 550}
+  hapticsPosition: {x: 264, y: 218}
+  soundsPosition: {x: -241, y: 218}
+  musicPosition: {x: 11, y: 218}
+  resumePosition: {x: -183, y: -71}
+  quitPosition: {x: 215, y: -71}
+  morePosition: {x: 11, y: -241}
+  settingsClosePosition: {x: 424, y: 578}
+  morePanelPosition: {x: 0, y: 0}
+  morePanelSize: {x: 956, y: 2071}
+  moreTitlePosition: {x: 0, y: 400}
+  termsPosition: {x: 11, y: 305}
+  privacyPosition: {x: 11, y: 44}
+  moreBackPosition: {x: 4, y: -175}
+  moreClosePosition: {x: 424, y: 578}
+  leavePanelSize: {x: 960, y: 1020}
+  leaveTitlePosition: {x: 0, y: 125}
+  leaveDescriptionPosition: {x: 0, y: 30}
+  leaveCancelPosition: {x: -170, y: -150}
+  leaveConfirmPosition: {x: 170, y: -150}
+  defeatPanelSize: {x: 700, y: 600}
+  defeatTitlePosition: {x: 0, y: 110}
+  defeatDescriptionPosition: {x: 0, y: 10}
+  restartPosition: {x: 0, y: -150}
+  fontOverride: {fileID: 11400000, guid: f55ad29a790524c2a881b7522d937a47, type: 2}

@@ -1,0 +1,117 @@
+{
+  "file": "/Users/ayseakbal/colorarrows-2D-backup/Blender/HandpaintCar/car_handpaint_red_reference_v1.blend",
+  "targets": {
+    "car": {
+      "source_uv_sha256": "a515e408da1a8c1e9ecf48462f3610ca945461dafc52d2970534e63676cf266c",
+      "final_uv_sha256": "a515e408da1a8c1e9ecf48462f3610ca945461dafc52d2970534e63676cf266c",
+      "source_uv_loops": 1208,
+      "final_uv_loops": 1208,
+      "uv_identical": true,
+      "material": "MAT_car_Handpaint",
+      "textures": [
+        {
+          "name": "IMG_CarBody_Handpaint",
+          "size": [
+            512,
+            512
+          ],
+          "packed": true,
+          "filepath": "/Users/ayseakbal/colorarrows-2D-backup/Blender/HandpaintCar/textures_v1/car_body_handpaint.png",
+          "external_file_exists": true
+        }
+      ]
+    },
+    "window": {
+      "source_uv_sha256": "84003b67c1c029e55640d3e565b0cf6d492426d8cbcd3c5cc81dc6ad7afbc918",
+      "final_uv_sha256": "84003b67c1c029e55640d3e565b0cf6d492426d8cbcd3c5cc81dc6ad7afbc918",
+      "source_uv_loops": 256,
+      "final_uv_loops": 256,
+      "uv_identical": true,
+      "material": "MAT_window_Handpaint",
+      "textures": [
+        {
+          "name": "IMG_CarWindows_Handpaint",
+          "size": [
+            512,
+            512
+          ],
+          "packed": true,
+          "filepath": "/Users/ayseakbal/colorarrows-2D-backup/Blender/HandpaintCar/textures_v1/car_windows_handpaint.png",
+          "external_file_exists": true
+        }
+      ]
+    },
+    "window.sides": {
+      "source_uv_sha256": "93b5a98cc8216a9831163b2b7d06c0ac86c6c89ba104b4c0ae6a4d980441cdc3",
+      "final_uv_sha256": "93b5a98cc8216a9831163b2b7d06c0ac86c6c89ba104b4c0ae6a4d980441cdc3",
+      "source_uv_loops": 13440,
+      "final_uv_loops": 13440,
+      "uv_identical": true,
+      "material": "MAT_window_sides_Handpaint",
+      "textures": [
+        {
+          "name": "IMG_CarWindowFrames_Handpaint",
+          "size": [
+            512,
+            512
+          ],
+          "packed": true,
+          "filepath": "/Users/ayseakbal/colorarrows-2D-backup/Blender/HandpaintCar/textures_v1/car_window_frames_handpaint.png",
+          "external_file_exists": true
+        }
+      ]
+    },
+    "tires": {
+      "source_uv_sha256": "b55b8ec7409b18b69ad8cc098eaa0fa928df08247beb946eca46f9d8fd1e0c2a",
+      "final_uv_sha256": "b55b8ec7409b18b69ad8cc098eaa0fa928df08247beb946eca46f9d8fd1e0c2a",
+      "source_uv_loops": 2880,
+      "final_uv_loops": 2880,
+      "uv_identical": true,
+      "material": "MAT_tires_Handpaint",
+      "textures": [
+        {
+          "name": "IMG_CarWheels_Handpaint",
+          "size": [
+            512,
+            512
+          ],
+          "packed": true,
+          "filepath": "/Users/ayseakbal/colorarrows-2D-backup/Blender/HandpaintCar/textures_v1/car_wheels_handpaint.png",
+          "external_file_exists": true
+        }
+      ]
+    },
+    "light": {
+      "source_uv_sha256": "5cbc99f7c695070630f1615f17f535789f2b708e5a84506a03382c822e084628",
+      "final_uv_sha256": "5cbc99f7c695070630f1615f17f535789f2b708e5a84506a03382c822e084628",
+      "source_uv_loops": 448,
+      "final_uv_loops": 448,
+      "uv_identical": true,
+      "material": "MAT_light_Handpaint",
+      "textures": [
+        {
+          "name": "IMG_CarHeadlights_Handpaint",
+          "size": [
+            512,
+            512
+          ],
+          "packed": true,
+          "filepath": "/Users/ayseakbal/colorarrows-2D-backup/Blender/HandpaintCar/textures_v1/car_headlights_handpaint.png",
+          "external_file_exists": true
+        }
+      ]
+    }
+  },
+  "detached_plane": {
+    "uv_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "uv_loops": 0,
+    "painted": false
+  },
+  "checks": {
+    "all_painted_uv_maps_byte_identical_to_source": true,
+    "all_textures_512_png_external_and_packed": true,
+    "five_painted_object_groups": true,
+    "detached_plane_left_unpainted": true,
+    "detached_plane_still_has_zero_uv_loops": true
+  }
+}

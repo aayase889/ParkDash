@@ -1,0 +1,396 @@
+{
+  "file": "/Users/ayseakbal/Desktop/blender class/carmatchcar3 copy 2.blend",
+  "scene": "Scene",
+  "objects": [
+    {
+      "name": "car",
+      "type": "MESH",
+      "location": [
+        -3.664404,
+        0.114795,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        2.040429,
+        2.721195,
+        1.613214
+      ],
+      "mesh": {
+        "vertices": 369,
+        "polygons": 254,
+        "triangles": 700,
+        "uv_layers": [
+          {
+            "name": "UVMap",
+            "active": true,
+            "loops": 1208,
+            "bounds": [
+              0.000557,
+              0.000142,
+              0.972477,
+              0.96789
+            ],
+            "fingerprint_sha256": "a515e408da1a8c1e9ecf48462f3610ca945461dafc52d2970534e63676cf266c"
+          }
+        ],
+        "materials": [
+          {
+            "name": "Material",
+            "images": []
+          }
+        ],
+        "material_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "name": "Cube",
+      "type": "MESH",
+      "location": [
+        0.0,
+        1.027558,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mesh": {
+        "vertices": 0,
+        "polygons": 0,
+        "triangles": 0,
+        "uv_layers": [
+          {
+            "name": "UVMap",
+            "active": true,
+            "loops": 0,
+            "bounds": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "fingerprint_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        ],
+        "materials": [],
+        "material_indices": []
+      }
+    },
+    {
+      "name": "Empty",
+      "type": "EMPTY",
+      "location": [
+        1.219179,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        1.570796,
+        -0.0,
+        -0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "Empty.001",
+      "type": "EMPTY",
+      "location": [
+        1.294847,
+        0.705715,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "light",
+      "type": "MESH",
+      "location": [
+        -2.935593,
+        -0.940967,
+        0.365114
+      ],
+      "rotation": [
+        1.570796,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        1.97945,
+        0.40233,
+        0.40233
+      ],
+      "mesh": {
+        "vertices": 128,
+        "polygons": 100,
+        "triangles": 248,
+        "uv_layers": [
+          {
+            "name": "UVMap",
+            "active": true,
+            "loops": 448,
+            "bounds": [
+              0.078819,
+              0.026182,
+              0.876147,
+              0.963303
+            ],
+            "fingerprint_sha256": "5cbc99f7c695070630f1615f17f535789f2b708e5a84506a03382c822e084628"
+          }
+        ],
+        "materials": [],
+        "material_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "name": "Plane",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.273695
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        0.879694,
+        0.879694,
+        0.879694
+      ],
+      "dimensions": [
+        2.810311,
+        2.138858,
+        1.415564
+      ],
+      "mesh": {
+        "vertices": 117,
+        "polygons": 75,
+        "triangles": 148,
+        "uv_layers": [
+          {
+            "name": "UVMap",
+            "active": true,
+            "loops": 0,
+            "bounds": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "fingerprint_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+          }
+        ],
+        "materials": [],
+        "material_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "name": "tires",
+      "type": "MESH",
+      "location": [
+        -3.664404,
+        0.114795,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        2.133451,
+        2.14149,
+        0.820569
+      ],
+      "mesh": {
+        "vertices": 768,
+        "polygons": 680,
+        "triangles": 1520,
+        "uv_layers": [
+          {
+            "name": "UVMap",
+            "active": true,
+            "loops": 2880,
+            "bounds": [
+              0.040332,
+              0.026785,
+              0.949541,
+              1.0
+            ],
+            "fingerprint_sha256": "b55b8ec7409b18b69ad8cc098eaa0fa928df08247beb946eca46f9d8fd1e0c2a"
+          }
+        ],
+        "materials": [
+          {
+            "name": "Material",
+            "images": []
+          }
+        ],
+        "material_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "name": "window",
+      "type": "MESH",
+      "location": [
+        -3.664404,
+        0.114795,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        1.977703,
+        1.685009,
+        0.805583
+      ],
+      "mesh": {
+        "vertices": 100,
+        "polygons": 64,
+        "triangles": 128,
+        "uv_layers": [
+          {
+            "name": "UVMap",
+            "active": true,
+            "loops": 256,
+            "bounds": [
+              0.001873,
+              0.356359,
+              0.954128,
+              0.912844
+            ],
+            "fingerprint_sha256": "84003b67c1c029e55640d3e565b0cf6d492426d8cbcd3c5cc81dc6ad7afbc918"
+          }
+        ],
+        "materials": [
+          {
+            "name": "Material",
+            "images": []
+          }
+        ],
+        "material_indices": [
+          0
+        ]
+      }
+    },
+    {
+      "name": "window.sides",
+      "type": "MESH",
+      "location": [
+        -3.664404,
+        0.114795,
+        0.020137
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        2.097722,
+        1.618036,
+        0.843449
+      ],
+      "mesh": {
+        "vertices": 3360,
+        "polygons": 3360,
+        "triangles": 6720,
+        "uv_layers": [
+          {
+            "name": "UVMap",
+            "active": true,
+            "loops": 13440,
+            "bounds": [
+              0.000966,
+              0.000631,
+              0.901376,
+              0.892202
+            ],
+            "fingerprint_sha256": "93b5a98cc8216a9831163b2b7d06c0ac86c6c89ba104b4c0ae6a4d980441cdc3"
+          }
+        ],
+        "materials": [],
+        "material_indices": [
+          0
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "source_obj": "/Users/ayseakbal/Desktop/blender class/carmatchcar44.obj",
+  "objects": [
+    {
+      "name": "car.001",
+      "vertices": 406,
+      "polygons": 366,
+      "triangles": 758,
+      "dimensions": [
+        2.905285,
+        1.391737,
+        2.232876
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "uv_layer": "UVMap",
+      "uv_loops": 1490,
+      "uv_bounds": [
+        0.003079,
+        0.003975,
+        0.901025,
+        0.905197
+      ],
+      "uv_sha256": "ab6baa91759d3bf4295a01124a7abe829b190dfdd74cd46a1f1fd3e6e3296083",
+      "materials": []
+    },
+    {
+      "name": "tires.001",
+      "vertices": 192,
+      "polygons": 136,
+      "triangles": 368,
+      "dimensions": [
+        2.03476,
+        0.645336,
+        2.34129
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "uv_layer": "UVMap",
+      "uv_loops": 640,
+      "uv_bounds": [
+        0.003451,
+        0.00316,
+        0.996968,
+        0.971939
+      ],
+      "uv_sha256": "2488220274b5a8c591d6893b8e05020f90cb3c947335c79182dc68d6f5ea81a1",
+      "materials": []
+    },
+    {
+      "name": "window.001",
+      "vertices": 42,
+      "polygons": 1,
+      "triangles": 40,
+      "dimensions": [
+        0.243725,
+        0.567555,
+        1.281512
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "uv_layer": "UVMap",
+      "uv_loops": 42,
+      "uv_bounds": [
+        0.713005,
+        0.003648,
+        0.802997,
+        0.198142
+      ],
+      "uv_sha256": "bb01a035151870df5a272a5ab1bf510786c0a1a6b94e9027943ed376d6f88020",
+      "materials": []
+    },
+    {
+      "name": "window_sides",
+      "vertices": 126,
+      "polygons": 126,
+      "triangles": 252,
+      "dimensions": [
+        0.29967,
+        0.62876,
+        1.341372
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "uv_layer": "UVMap",
+      "uv_loops": 504,
+      "uv_bounds": [
+        0.003545,
+        0.003096,
+        0.0876,
+        0.083428
+      ],
+      "uv_sha256": "d2e8d19bbc1216362813f758526bba369ab9544334015cfa1fb777b3099a1aae",
+      "materials": []
+    }
+  ]
+}

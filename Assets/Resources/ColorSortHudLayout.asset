@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa3e3d6ef3fb844ceb23c4fae691abd4, type: 3}
+  m_Name: ColorSortHudLayout
+  m_EditorClassIdentifier: Assembly-CSharp::ColorSortHudLayout
+  headerPosition: {x: 0, y: -238}
+  headerSize: {x: 0, y: 440}
+  deckPosition: {x: 0, y: 0}
+  deckSize: {x: 620, y: 244}
+  hudFont: {fileID: 11400000, guid: f55ad29a790524c2a881b7522d937a47, type: 2}
+  boardLabelText: BOARD
+  boardLabelPosition: {x: -368, y: 38}
+  boardLabelSize: {x: 260, y: 70}
+  boardLabelFontSize: 56
+  boardNumberPosition: {x: -368, y: -42}
+  boardNumberSize: {x: 210, y: 190}
+  boardNumberFontSize: 142
+  boardNumberTwoDigitFontSize: 104
+  boardNumberThreeDigitFontSize: 82
+  redDotPosition: {x: 84, y: 47}
+  redDotSize: {x: 48, y: 48}
+  redTextPosition: {x: 215, y: 47}
+  redTextSize: {x: 150, y: 64}
+  redTextFontSize: 54
+  greenDotPosition: {x: 84, y: -36}
+  greenDotSize: {x: 48, y: 48}
+  greenTextPosition: {x: 215, y: -36}
+  greenTextSize: {x: 150, y: 64}
+  greenTextFontSize: 54
+  blueDotPosition: {x: 84, y: -112}
+  blueDotSize: {x: 42, y: 42}
+  blueTextPosition: {x: 215, y: -112}
+  blueTextSize: {x: 150, y: 56}
+  blueTextFontSize: 44
+  yellowDotPosition: {x: 84, y: -178}
+  yellowDotSize: {x: 42, y: 42}
+  yellowTextPosition: {x: 215, y: -178}
+  yellowTextSize: {x: 150, y: 56}
+  yellowTextFontSize: 44
+  heartPosition: {x: 345, y: -122}
+  heartSize: {x: 44, y: 44}
+  heartSpacing: 52
+  retryPosition: {x: 420, y: 5}
+  retrySize: {x: 150, y: 150}
+  mainMenuPlayPosition: {x: 0, y: -95}
+  mainMenuPlaySize: {x: 640, y: 190}
+  mainMenuPlayText: PLAY
+  mainMenuPlayFontSize: 74
+  mainMenuShopTabPosition: {x: -390, y: -1005}
+  mainMenuHomeTabPosition: {x: 0, y: -1005}
+  mainMenuLockedTabPosition: {x: 390, y: -1005}
+  mainMenuTabSize: {x: 430, y: 300}
+  mainMenuTallTabSize: {x: 470, y: 430}
+  mainMenuSelectedTabOffset: {x: 0, y: 65}
+  mainMenuSelectedLabelOffset: {x: 0, y: -145}
+  mainMenuSelectedLabelSize: {x: 260, y: 70}
+  mainMenuSelectedLabelFontSize: 42
+  boardTrayPosition: {x: 0, y: 0.5}
+  boardTraySize3: 5.35
+  boardTraySize4: 5.75
+  boardCenterX: 0
+  boardCenterY: 0.5
+  boardSpacing3: 1.34
+  boardSpacing4: 1.18
+  boardBlockScale3: 1.34
+  boardBlockScale4: 1.02
+  boardColliderSize3: 1.36
+  boardColliderSize4: 1.02
+  colorTrayPosition3: {x: 0, y: -2.82}
+  colorTrayPosition4: {x: 0, y: -3.18}
+  colorTrayPosition5: {x: 0, y: -3.18}
+  colorTrayWidth3: 4.65
+  colorTrayWidth4: 5.85
+  colorTrayWidth5: 6.75
+  colorTraySlotX3: {x: -1.31, y: 0, z: 1.31}
+  colorTraySlotX4: {x: -1.9, y: -0.63, z: 0.63, w: 1.9}
+  colorTraySlotX5FirstFour: {x: -2.55, y: -1.28, z: 0, w: 1.28}
+  colorTraySlotX5Last: 2.55
+  trayBlockScale3: 1.08
+  trayBlockScale4: 0.96
+  trayBlockScale5: 0.88
+  extraSlotBoosterPosition: {x: -2, y: -5.05}
+  extraSlotBoosterSize: {x: 0.9, y: 0.9}
+  undoBoosterPosition: {x: -0.95, y: -5.05}
+  undoBoosterSize: {x: 0.9, y: 0.9}
+  pauseButtonPosition: {x: 2.45, y: -5.05}
+  pauseButtonSize: {x: 0.9, y: 0.9}
+  showDebugNextBoardButton: 1
+  debugNextBoardButtonPosition: {x: 2.3, y: -4.15}
+  debugNextBoardButtonSize: {x: 0.95, y: 0.48}
+  debugNextBoardButtonText: NEXT
+  editorPreviewBoardNumber: 1
+  parkingPosition3: {x: -2.8, y: -3.2}
+  parkingPosition4: {x: -2.8, y: -3.58}
+  parkingSize3: 1.08
+  parkingSize4: 1.05
+  parkingBlockScale3: 1.08
+  parkingBlockScale4: 0.96
+  settingsDimAlpha: 0.68
+  settingsPanelPosition: {x: 0, y: 20}
+  settingsPanelSize: {x: 700, y: 960}
+  settingsTitleText: SETTINGS
+  settingsTitlePosition: {x: 0, y: 340}
+  settingsTitleSize: {x: 560, y: 90}
+  settingsTitleFontSize: 64
+  settingsHapticsIconPosition: {x: -190, y: 195}
+  settingsHapticsIconSize: {x: 80, y: 80}
+  settingsHapticsText: 'Haptics:'
+  settingsHapticsTextPosition: {x: 30, y: 195}
+  settingsHapticsTextSize: {x: 300, y: 76}
+  settingsHapticsFontSize: 42
+  settingsHapticsTogglePosition: {x: 210, y: 195}
+  settingsSoundsIconPosition: {x: -190, y: 75}
+  settingsSoundsIconSize: {x: 80, y: 80}
+  settingsSoundsText: 'Sounds:'
+  settingsSoundsTextPosition: {x: 30, y: 75}
+  settingsSoundsTextSize: {x: 300, y: 76}
+  settingsSoundsFontSize: 42
+  settingsSoundsTogglePosition: {x: 210, y: 75}
+  settingsMusicIconPosition: {x: -190, y: -45}
+  settingsMusicIconSize: {x: 80, y: 80}
+  settingsMusicText: 'Music:'
+  settingsMusicTextPosition: {x: 30, y: -45}
+  settingsMusicTextSize: {x: 300, y: 76}
+  settingsMusicFontSize: 42
+  settingsMusicTogglePosition: {x: 210, y: -45}
+  settingsToggleSize: {x: 170, y: 78}
+  settingsToggleKnobSize: {x: 66, y: 66}
+  settingsToggleKnobOffset: 43
+  settingsToggleTextSize: {x: 140, y: 60}
+  settingsToggleFontSize: 30
+  settingsResumePosition: {x: 0, y: -230}
+  settingsResumeSize: {x: 360, y: 96}
+  settingsResumeText: Resume
+  settingsResumeFontSize: 42
+  settingsQuitPosition: {x: 0, y: -355}
+  settingsQuitSize: {x: 360, y: 96}
+  settingsQuitText: Quit
+  settingsQuitFontSize: 42
+  settingsMorePosition: {x: 0, y: -455}
+  settingsMoreSize: {x: 260, y: 70}
+  settingsMoreText: More
+  settingsMoreFontSize: 34
+  settingsClosePosition: {x: 315, y: 390}
+  settingsCloseSize: {x: 92, y: 92}
+  morePanelPosition: {x: 0, y: 20}
+  morePanelSize: {x: 700, y: 760}
+  moreTitleText: MORE
+  moreTitlePosition: {x: 0, y: 260}
+  moreTitleSize: {x: 560, y: 80}
+  moreTitleFontSize: 58
+  termsButtonText: Terms
+  termsButtonPosition: {x: 0, y: 80}
+  termsButtonSize: {x: 420, y: 86}
+  termsButtonFontSize: 38
+  privacyButtonText: Privacy
+  privacyButtonPosition: {x: 0, y: -40}
+  privacyButtonSize: {x: 420, y: 86}
+  privacyButtonFontSize: 38
+  moreBackButtonText: Back
+  moreBackButtonPosition: {x: 0, y: -220}
+  moreBackButtonSize: {x: 320, y: 80}
+  moreBackButtonFontSize: 36
+  moreClosePosition: {x: 275, y: 315}
+  moreCloseSize: {x: 92, y: 92}
+  termsUrl: 
+  privacyUrl: 

@@ -1,0 +1,42 @@
+# Blender 5.0.1 MTL File: 'car44_handpaint_red_reference_v1.blend'
+# www.blender.org
+
+newmtl MAT_car_001_Handpaint
+Ns 176.400024
+Ka 1.000000 1.000000 1.000000
+Ks 0.280000 0.280000 0.280000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/car44_body_handpaint.png
+
+newmtl MAT_tires_001_Handpaint
+Ns 48.400013
+Ka 1.000000 1.000000 1.000000
+Ks 0.280000 0.280000 0.280000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/car44_wheels_handpaint.png
+
+newmtl MAT_window_001_Handpaint
+Ns 270.399994
+Ka 1.000000 1.000000 1.000000
+Ks 0.280000 0.280000 0.280000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/car44_windshield_handpaint.png
+
+newmtl MAT_window_sides_Handpaint
+Ns 144.399994
+Ka 1.000000 1.000000 1.000000
+Ks 0.280000 0.280000 0.280000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/car44_windshield_frame_handpaint.png

@@ -1,0 +1,94 @@
+{
+  "file": "/Users/ayseakbal/colorarrows-2D-backup/Blender/CarVariants/rounded_compact_car_v3.blend",
+  "mesh_objects": 25,
+  "vertices": 1008,
+  "polygons": 882,
+  "evaluated_triangles": 1892,
+  "boundary_edges": 0,
+  "non_manifold_edges": 0,
+  "uv_layers": 0,
+  "objects_with_modifiers": [],
+  "objects_with_non_unit_scale": [],
+  "wheel_objects": [
+    {
+      "name": "Wheel_FL",
+      "location": [
+        -1.02,
+        -0.34,
+        -0.28
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "Wheel_FR",
+      "location": [
+        1.02,
+        -0.34,
+        -0.28
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "Wheel_RL",
+      "location": [
+        -1.02,
+        1.02,
+        -0.28
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "Wheel_RR",
+      "location": [
+        1.02,
+        1.02,
+        -0.28
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "checks": {
+    "mobile_budget_under_4000_triangles": true,
+    "all_meshes_closed_manifold": true,
+    "no_uv_maps": true,
+    "no_live_modifiers": true,
+    "unit_scale_on_mesh_objects": true,
+    "four_separate_wheels": true
+  }
+}

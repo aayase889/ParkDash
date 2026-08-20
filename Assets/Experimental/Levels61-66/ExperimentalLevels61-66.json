@@ -1,0 +1,190 @@
+{
+  "catalogVersion": 1,
+  "runtimeEnabled": true,
+  "summary": "Optional Challenge Lab samples for thoughtful play after Level 60. They stay outside the permanent database and are reached through the temporary LAB button.",
+  "levels": [
+    {
+      "id": 61,
+      "baseBoardId": 51,
+      "title": "The Long Way Out",
+      "primaryMechanic": "dependency_chain",
+      "difficultyIntent": "Teach the player to inspect several exit lanes before touching the first available car.",
+      "parkingUseLimit": -1,
+      "minimumParkingUses": 0,
+      "requiredColorOrder": [],
+      "locks": [],
+      "designRules": [
+        "The fifth red car stays behind two police blockers and the upper blue limousine.",
+        "At least three cars look movable at the start, but only the blue-side route opens the short dependency chain.",
+        "No timer or hidden information is used."
+      ],
+      "intendedStrategy": [
+        "Trace the blue limousine exit lane before selecting a color.",
+        "Remove the two police blockers that release the center route.",
+        "Delay committing four red cars until the fifth red route is visible."
+      ],
+      "successCriteria": [
+        "The player can explain which blocker releases the fifth red car.",
+        "The level remains solvable without using the extra-slot booster."
+      ]
+    },
+    {
+      "id": 62,
+      "baseBoardId": 52,
+      "title": "Four Is Not Five",
+      "primaryMechanic": "color_trap",
+      "difficultyIntent": "Create an attractive near-match that punishes filling the tray without locating the final matching car.",
+      "parkingUseLimit": -1,
+      "minimumParkingUses": 1,
+      "requiredColorOrder": [],
+      "locks": [],
+      "designRules": [
+        "Four red cars are immediately reachable while the fifth red car is behind the green limousine.",
+        "A tempting yellow car can fill the final tray bay before the fifth red becomes available.",
+        "The side parking bay provides the recovery route and should be visually emphasized once."
+      ],
+      "intendedStrategy": [
+        "Count all five red cars before committing to the near-match.",
+        "If the yellow car is selected, park it before releasing the fifth red.",
+        "Clear red, then return the parked yellow car."
+      ],
+      "successCriteria": [
+        "The intended solution uses parking at least once.",
+        "There is no forced heart loss when the player reads the board correctly."
+      ]
+    },
+    {
+      "id": 63,
+      "baseBoardId": 53,
+      "title": "Valet Exchange",
+      "primaryMechanic": "forced_parking",
+      "difficultyIntent": "Turn the side bay into a planned temporary storage tool instead of an emergency button.",
+      "parkingUseLimit": 5,
+      "minimumParkingUses": 5,
+      "requiredColorOrder": [],
+      "locks": [],
+      "designRules": [
+        "The intended solution deliberately chains five side-bay entries.",
+        "The parking-use counter displays 5 at the start and decreases only when a car enters the side bay.",
+        "The board remains solvable with exactly the five entries used by its validated route."
+      ],
+      "intendedStrategy": [
+        "Use the side bay before committing the first full color group.",
+        "Swap parked interruptions only when the next five-car route is visible.",
+        "Complete the final color with no parking uses remaining."
+      ],
+      "successCriteria": [
+        "All five parking uses form part of the validated solution route.",
+        "The player cannot bypass the lesson with the extra-slot booster."
+      ]
+    },
+    {
+      "id": 64,
+      "baseBoardId": 54,
+      "title": "Key Color",
+      "primaryMechanic": "locked_car",
+      "difficultyIntent": "Introduce a clearly communicated lock that opens after a visible color goal is completed.",
+      "parkingUseLimit": -1,
+      "minimumParkingUses": 0,
+      "requiredColorOrder": [],
+      "locks": [
+        {
+          "row": 3,
+          "col": 2,
+          "unlockAfterColor": "green",
+          "presentation": "Red car displays a green padlock badge and the status strip points toward the green goal."
+        }
+      ],
+      "designRules": [
+        "The locked red car cannot be tapped until the green group clears.",
+        "The lock condition is always visible on the car and beside the tracker.",
+        "Tapping the locked car gives informational feedback and does not remove a heart."
+      ],
+      "intendedStrategy": [
+        "Recognize that green is the key color.",
+        "Clear the green group while keeping enough tray space for the unlocked red route.",
+        "Use the newly unlocked red car to release the lower-right lane."
+      ],
+      "successCriteria": [
+        "The first lock is understandable without written instructions.",
+        "A locked-car tap never counts as a mistake."
+      ]
+    },
+    {
+      "id": 65,
+      "baseBoardId": 55,
+      "title": "Traffic Schedule",
+      "primaryMechanic": "ordered_goals",
+      "difficultyIntent": "Make players plan several matches ahead by displaying a required color-completion order.",
+      "parkingUseLimit": -1,
+      "minimumParkingUses": 1,
+      "requiredColorOrder": [
+        "red",
+        "green",
+        "blue",
+        "yellow"
+      ],
+      "locks": [],
+      "designRules": [
+        "The tracker displays the four goal colors as a left-to-right sequence.",
+        "Cars of later colors may enter the tray, but they cannot clear before their turn.",
+        "Selecting a later color is a strategic choice and does not directly cost a heart."
+      ],
+      "intendedStrategy": [
+        "Complete red before committing the green route.",
+        "Preserve adjacent tray positions when blue becomes the third goal.",
+        "Finish with yellow after the board has opened."
+      ],
+      "successCriteria": [
+        "The displayed order is readable at phone size.",
+        "The level remains solvable without hiding or changing any car direction."
+      ]
+    },
+    {
+      "id": 66,
+      "baseBoardId": 56,
+      "title": "Rush-Hour Finale",
+      "primaryMechanic": "combined_mastery",
+      "difficultyIntent": "Combine familiar systems into a difficult but fully readable planning puzzle.",
+      "parkingUseLimit": 4,
+      "minimumParkingUses": 4,
+      "requiredColorOrder": [
+        "green",
+        "red",
+        "yellow",
+        "blue"
+      ],
+      "locks": [
+        {
+          "row": 0,
+          "col": 2,
+          "unlockAfterColor": "green",
+          "presentation": "Red car uses a green padlock badge."
+        },
+        {
+          "row": 3,
+          "col": 4,
+          "unlockAfterColor": "red",
+          "presentation": "Yellow car uses a red padlock badge."
+        }
+      ],
+      "designRules": [
+        "Two limousines form the central dependency chain.",
+        "Four parking entries are used at different stages of the ordered goals.",
+        "Green unlocks red; red unlocks yellow; all relationships remain visible.",
+        "No timer, random blocker, or hidden direction is allowed."
+      ],
+      "intendedStrategy": [
+        "Clear the green route around the first limousine and unlock red.",
+        "Use parking swaps to preserve the red and yellow sequences.",
+        "Clear red and unlock yellow.",
+        "Finish yellow, then preserve adjacent positions for blue."
+      ],
+      "successCriteria": [
+        "Every mechanic was introduced in an earlier sample before this combination.",
+        "The intended solution uses exactly four parking entries and no booster.",
+        "All locks and goal dependencies are visible before the first move."
+      ]
+    }
+  ]
+}

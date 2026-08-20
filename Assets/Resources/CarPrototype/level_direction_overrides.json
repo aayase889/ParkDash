@@ -1,0 +1,5697 @@
+{
+    "levels": [
+        {
+            "levelKey": "level:7",
+            "storesCarPlacements": false,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 2,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 1,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 0,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 1,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 1,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 2,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 2,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 0,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                }
+            ],
+            "storesGaragePlacements": false,
+            "garages": [],
+            "storesBoxPlacements": false,
+            "boxes": []
+        },
+        {
+            "levelKey": "level:8",
+            "storesCarPlacements": false,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 1,
+                    "col": 1,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 2,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 0,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 1,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 2,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 1,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 2,
+                    "col": 2,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 0,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                }
+            ],
+            "storesGaragePlacements": false,
+            "garages": [],
+            "storesBoxPlacements": false,
+            "boxes": []
+        },
+        {
+            "levelKey": "level:9",
+            "storesCarPlacements": false,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 3,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 3,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 3,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 3,
+                    "col": 3,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 2,
+                    "col": 3,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 2,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 2,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 2,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 1,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 1,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 1,
+                    "col": 1,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 1,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 0,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 0,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 2
+                }
+            ],
+            "storesGaragePlacements": false,
+            "garages": [],
+            "storesBoxPlacements": false,
+            "boxes": []
+        },
+        {
+            "levelKey": "level-3x3-v3:10",
+            "storesCarPlacements": false,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 1,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 2,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 1,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 0,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 2,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 0,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 2,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 0,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 1,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                }
+            ],
+            "storesGaragePlacements": false,
+            "garages": [],
+            "storesBoxPlacements": false,
+            "boxes": []
+        },
+        {
+            "levelKey": "level-3x3-v3:11",
+            "storesCarPlacements": false,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 2,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 1,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 2,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 1,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 2,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 1,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 0,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 0,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                }
+            ],
+            "storesGaragePlacements": false,
+            "garages": [],
+            "storesBoxPlacements": false,
+            "boxes": []
+        },
+        {
+            "levelKey": "level-3x3-v3:12",
+            "storesCarPlacements": false,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 0,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 2,
+                    "col": 0,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 2,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 2,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 1,
+                    "col": 1,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 1,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 0,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 1,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                }
+            ],
+            "storesGaragePlacements": false,
+            "garages": [],
+            "storesBoxPlacements": false,
+            "boxes": []
+        },
+        {
+            "levelKey": "level-3x3-v3:13",
+            "storesCarPlacements": false,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 1,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 0,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 0,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 2,
+                    "col": 0,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 2,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 1,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 1,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 2,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 0,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                }
+            ],
+            "storesGaragePlacements": false,
+            "garages": [],
+            "storesBoxPlacements": false,
+            "boxes": []
+        },
+        {
+            "levelKey": "level-3x3-v3:14",
+            "storesCarPlacements": false,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 1,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 1,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 2,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 0,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 2,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 0,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 2,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 0,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 1,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                }
+            ],
+            "storesGaragePlacements": false,
+            "garages": [],
+            "storesBoxPlacements": false,
+            "boxes": []
+        },
+        {
+            "levelKey": "level-3x3-v3:15",
+            "storesCarPlacements": false,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 2,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 1,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 2,
+                    "col": 0,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 0,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 2,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 1,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 1,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 0,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                }
+            ],
+            "storesGaragePlacements": false,
+            "garages": [],
+            "storesBoxPlacements": false,
+            "boxes": []
+        },
+        {
+            "levelKey": "level-3x3-v3:16",
+            "storesCarPlacements": false,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 1,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 2,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 2,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 2,
+                    "col": 0,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 1,
+                    "col": 0,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 0,
+                    "col": 1,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 0,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 1,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 0,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                }
+            ],
+            "storesGaragePlacements": false,
+            "garages": [],
+            "storesBoxPlacements": false,
+            "boxes": []
+        },
+        {
+            "levelKey": "level-3x3-v3:17",
+            "storesCarPlacements": false,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 2,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 2,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 1,
+                    "col": 0,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 0,
+                    "col": 0,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 2,
+                    "col": 1,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 2,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 1,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 1,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                }
+            ],
+            "storesGaragePlacements": false,
+            "garages": [],
+            "storesBoxPlacements": false,
+            "boxes": []
+        },
+        {
+            "levelKey": "level-3x3-v3:18",
+            "storesCarPlacements": false,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 2,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 2,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 1,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 2,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 0,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 0,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 0,
+                    "col": 1,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 2,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 1,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                }
+            ],
+            "storesGaragePlacements": false,
+            "garages": [],
+            "storesBoxPlacements": false,
+            "boxes": []
+        },
+        {
+            "levelKey": "level-3x3-v3:19",
+            "storesCarPlacements": false,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 2,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 1,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 2,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 2,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 2,
+                    "col": 0,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 0,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 2,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 0,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                }
+            ],
+            "storesGaragePlacements": false,
+            "garages": [],
+            "storesBoxPlacements": false,
+            "boxes": []
+        },
+        {
+            "levelKey": "level-3x3-v3:20",
+            "storesCarPlacements": false,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 2,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 0,
+                    "col": 0,
+                    "color": 2,
+                    "cellLength": 2,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 2,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 2,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 2,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 1,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 1,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                }
+            ],
+            "storesGaragePlacements": false,
+            "garages": [],
+            "storesBoxPlacements": false,
+            "boxes": []
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:30",
+            "storesCarPlacements": false,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 3,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 1,
+                    "col": 3,
+                    "color": 0,
+                    "cellLength": 2,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 3,
+                    "col": 3,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 3,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 3,
+                    "col": 1,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 3,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 2,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 2,
+                    "col": 1,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 2,
+                    "col": 2,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 1,
+                    "col": 2,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 0,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 0,
+                    "col": 1,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 1,
+                    "col": 1,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 1,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 0,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 7,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 8,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 9,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 12,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:31",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 2,
+                    "col": 3,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 3,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 2,
+                    "col": 0,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 3,
+                    "col": 3,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 1,
+                    "col": 3,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 1,
+                    "col": 2,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 1,
+                    "col": 0,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 0,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 3,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 1,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 3,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 2,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 2,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 0,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 16,
+                    "row": 0,
+                    "col": 3,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 17,
+                    "row": 0,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 4,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 6,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 8,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 14,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:32",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 3,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 3,
+                    "col": 3,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 1,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 0,
+                    "col": 3,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 3,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 0,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 2,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 2,
+                    "col": 1,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 2,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 1,
+                    "col": 1,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 0,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 2,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 1,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 3,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 15,
+                    "row": 1,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 1,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 4,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 8,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 15,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:33",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 1,
+                    "col": 3,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 3,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 0,
+                    "col": 2,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 3,
+                    "col": 3,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 3,
+                    "col": 1,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 0,
+                    "col": 0,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 2,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 0,
+                    "col": 3,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 1,
+                    "col": 2,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 0,
+                    "col": 1,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 2,
+                    "col": 2,
+                    "color": 1,
+                    "cellLength": 2,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 1,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 3,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 2,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 1,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 2
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 0,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 6,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 13,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 14,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:34",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 3,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 2,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 1,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 2,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 0,
+                    "col": 1,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 3,
+                    "col": 1,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 3,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 1,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 2,
+                    "col": 3,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 2,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 1,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 0,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 0,
+                    "col": 2,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 2,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 3,
+                    "col": 3,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 1,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 7,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 9,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 10,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:35",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 0,
+                    "col": 1,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 0,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 2,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 1,
+                    "col": 3,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 2,
+                    "col": 3,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 3,
+                    "col": 3,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 3,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 2,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 1,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 1,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 1,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 2,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 3,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 3,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 2,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 3,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 4,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 5,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 6,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 12,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 13,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:36",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 3,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 0,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 1,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 1,
+                    "col": 1,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 3,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 0,
+                    "col": 2,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 2,
+                    "col": 3,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 3,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 1,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 1,
+                    "col": 3,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 2,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 3,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 0,
+                    "col": 3,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 0,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 2,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 15,
+                    "row": 2,
+                    "col": 0,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": []
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:37",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 1,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 0,
+                    "col": 3,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 3,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 3,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 2,
+                    "col": 3,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 2,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 1,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 1,
+                    "col": 3,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 1,
+                    "col": 0,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 3,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 0,
+                    "col": 2,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 3,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 2,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 2,
+                    "col": 0,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 0,
+                    "col": 0,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 15,
+                    "row": 0,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 0,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 1,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 4,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:38",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 3,
+                    "col": 2,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 0,
+                    "col": 3,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 0,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 1,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 1,
+                    "col": 1,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 3,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 3,
+                    "col": 3,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 3,
+                    "col": 1,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 0,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 0,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 2,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 1,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 2,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 2,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 1,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 15,
+                    "row": 2,
+                    "col": 2,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 2
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 4,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 10,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 11,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 15,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:39",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 3,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 3,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 3,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 2,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 2,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 1,
+                    "col": 3,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 0,
+                    "col": 3,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 0,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 1,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 2,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 2,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 2,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 1,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 0,
+                    "col": 0,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 0,
+                    "col": 1,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 1,
+                    "col": 1,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 0
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 5,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 6,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 11,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 12,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:40",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 1,
+                    "col": 3,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 2,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 3,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 3,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 2,
+                    "col": 2,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 2,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 3,
+                    "col": 2,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 2,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 1,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 0,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 3,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 1,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 1,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 0,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 0,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 15,
+                    "row": 0,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 0,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 1,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 3,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 4,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 5,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 6,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 7,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 8,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 9,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 10,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 11,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 12,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 13,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 14,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 15,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:41",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 1,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 0,
+                    "col": 3,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 0,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 1,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 3,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 1,
+                    "col": 3,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 2,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 3,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 1,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 0,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 2,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 2,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 1,
+                    "col": 2,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 3,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 2,
+                    "col": 2,
+                    "color": 6,
+                    "cellLength": 2,
+                    "direction": 0
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 0,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 4,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:42",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 3,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 1,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 1,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 3,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 1,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 3,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 0,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 0,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 1,
+                    "col": 0,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 3,
+                    "col": 3,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 0,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 2,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 0,
+                    "col": 0,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 2,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 2,
+                    "col": 1,
+                    "color": 6,
+                    "cellLength": 2,
+                    "direction": 2
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 0,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 9,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 10,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 12,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:43",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 2,
+                    "col": 3,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 3,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 1,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 0,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 0,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 3,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 3,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 1,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 1,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 3,
+                    "col": 3,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 2,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 2,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 0,
+                    "col": 1,
+                    "color": 3,
+                    "cellLength": 2,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 2,
+                    "col": 1,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 3
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 1,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 2,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 6,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 12,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:44",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 0,
+                    "col": 2,
+                    "color": 6,
+                    "cellLength": 2,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 0,
+                    "col": 0,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 1,
+                    "col": 0,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 2,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 3,
+                    "col": 0,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 3,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 3,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 2,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 2,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 1,
+                    "col": 3,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 1,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 1,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 2,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 2,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 2
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 2,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 5,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 10,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 11,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 12,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 13,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:45",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 3,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 1,
+                    "col": 4,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 2,
+                    "col": 4,
+                    "color": 3,
+                    "cellLength": 2,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 4,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 4,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 4,
+                    "col": 4,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 4,
+                    "col": 3,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 4,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 1,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 2,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 3,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 0,
+                    "col": 1,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 1,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 2,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 3,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 15,
+                    "row": 3,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 16,
+                    "row": 3,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 17,
+                    "row": 2,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 18,
+                    "row": 2,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 19,
+                    "row": 1,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 20,
+                    "row": 1,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 21,
+                    "row": 0,
+                    "col": 0,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 22,
+                    "row": 0,
+                    "col": 2,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 23,
+                    "row": 0,
+                    "col": 4,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 4,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 5,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 12,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 14,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 16,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 18,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 20,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 21,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 23,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:46",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 0,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 4,
+                    "col": 4,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 0,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 4,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 1,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 3,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 0,
+                    "col": 3,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 0,
+                    "col": 4,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 2,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 4,
+                    "col": 0,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 1,
+                    "col": 0,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 2,
+                    "col": 1,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 4,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 2,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 15,
+                    "row": 1,
+                    "col": 4,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 16,
+                    "row": 4,
+                    "col": 2,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 17,
+                    "row": 3,
+                    "col": 2,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 18,
+                    "row": 3,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 19,
+                    "row": 3,
+                    "col": 4,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 20,
+                    "row": 1,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 21,
+                    "row": 3,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 22,
+                    "row": 2,
+                    "col": 4,
+                    "color": 4,
+                    "cellLength": 2,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 23,
+                    "row": 1,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 5,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 6,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 8,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 10,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 20,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 21,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:47",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 3,
+                    "col": 4,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 2,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 4,
+                    "col": 4,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 4,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 4,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 2,
+                    "col": 4,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 1,
+                    "col": 4,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 0,
+                    "col": 4,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 0,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 0,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 1,
+                    "col": 3,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 0,
+                    "col": 3,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 2,
+                    "col": 3,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 0,
+                    "col": 2,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 4,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 15,
+                    "row": 1,
+                    "col": 0,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 16,
+                    "row": 1,
+                    "col": 1,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 17,
+                    "row": 4,
+                    "col": 0,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 18,
+                    "row": 2,
+                    "col": 2,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 19,
+                    "row": 3,
+                    "col": 3,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 20,
+                    "row": 2,
+                    "col": 1,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 21,
+                    "row": 3,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 22,
+                    "row": 1,
+                    "col": 2,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 23,
+                    "row": 3,
+                    "col": 2,
+                    "color": 1,
+                    "cellLength": 2,
+                    "direction": 3
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 0,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 1,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 5,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 6,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 8,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 11,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 13,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 15,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 21,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:48",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 0,
+                    "col": 0,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 4,
+                    "col": 3,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 1,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 4,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 0,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 3,
+                    "col": 4,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 0,
+                    "col": 4,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 1,
+                    "col": 4,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 1,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 2,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 0,
+                    "col": 3,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 0,
+                    "col": 1,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 3,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 1,
+                    "col": 3,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 2,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 15,
+                    "row": 3,
+                    "col": 3,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 16,
+                    "row": 2,
+                    "col": 1,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 17,
+                    "row": 1,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 18,
+                    "row": 3,
+                    "col": 2,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 20,
+                    "row": 4,
+                    "col": 1,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 21,
+                    "row": 4,
+                    "col": 4,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 22,
+                    "row": 3,
+                    "col": 1,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 23,
+                    "row": 2,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 24,
+                    "row": 4,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 25,
+                    "row": 2,
+                    "col": 4,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 1,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 5,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 7,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 8,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 10,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 11,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 12,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 16,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 17,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 18,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 20,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 23,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:49",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 4,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 3,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 2,
+                    "col": 0,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 0,
+                    "col": 1,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 1,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 2,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 3,
+                    "col": 1,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 4,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 4,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 3,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 2,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 1,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 0,
+                    "col": 2,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 13,
+                    "row": 0,
+                    "col": 3,
+                    "color": 2,
+                    "cellLength": 2,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 1,
+                    "col": 4,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 15,
+                    "row": 1,
+                    "col": 3,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 16,
+                    "row": 2,
+                    "col": 3,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 17,
+                    "row": 2,
+                    "col": 4,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 18,
+                    "row": 3,
+                    "col": 4,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 19,
+                    "row": 4,
+                    "col": 4,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 20,
+                    "row": 4,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 21,
+                    "row": 3,
+                    "col": 3,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 22,
+                    "row": 1,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 23,
+                    "row": 0,
+                    "col": 0,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 0
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [],
+            "storesBoxPlacements": true,
+            "boxes": [
+                {
+                    "pieceIndex": 6,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 8,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445648193359,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492789268493652
+                },
+                {
+                    "pieceIndex": 9,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 10,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 12,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                },
+                {
+                    "pieceIndex": 21,
+                    "storesVisualRotation": true,
+                    "rotationX": 0.5279445052146912,
+                    "rotationY": 0.0,
+                    "rotationZ": 0.0,
+                    "rotationW": 0.8492788672447205
+                }
+            ]
+        },
+        {
+            "levelKey": "level-refined-catalog-v1:50",
+            "storesCarPlacements": true,
+            "cars": [
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 0,
+                    "row": 4,
+                    "col": 4,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 1,
+                    "row": 4,
+                    "col": 0,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 2,
+                    "row": 0,
+                    "col": 4,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 3,
+                    "row": 2,
+                    "col": 4,
+                    "color": 0,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 4,
+                    "row": 3,
+                    "col": 4,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 5,
+                    "row": 1,
+                    "col": 4,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 6,
+                    "row": 1,
+                    "col": 3,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 7,
+                    "row": 4,
+                    "col": 1,
+                    "color": 2,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 8,
+                    "row": 0,
+                    "col": 3,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 9,
+                    "row": 0,
+                    "col": 2,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 10,
+                    "row": 1,
+                    "col": 2,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 11,
+                    "row": 4,
+                    "col": 2,
+                    "color": 1,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 12,
+                    "row": 4,
+                    "col": 3,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 14,
+                    "row": 1,
+                    "col": 1,
+                    "color": 4,
+                    "cellLength": 1,
+                    "direction": 0
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 16,
+                    "row": 3,
+                    "col": 0,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 17,
+                    "row": 2,
+                    "col": 1,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 18,
+                    "row": 3,
+                    "col": 2,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 19,
+                    "row": 2,
+                    "col": 3,
+                    "color": 3,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 20,
+                    "row": 2,
+                    "col": 0,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 2
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 21,
+                    "row": 3,
+                    "col": 1,
+                    "color": 6,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 22,
+                    "row": 2,
+                    "col": 2,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 1
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 23,
+                    "row": 0,
+                    "col": 1,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 3
+                },
+                {
+                    "storesPosition": true,
+                    "pieceIndex": 24,
+                    "row": 3,
+                    "col": 3,
+                    "color": 5,
+                    "cellLength": 1,
+                    "direction": 2
+                }
+            ],
+            "storesGaragePlacements": true,
+            "garages": [
+                {
+                    "id": 0,
+                    "row": 0,
+                    "col": 0,
+                    "isEditorCreated": false,
+                    "storesQueueColors": true,
+                    "queueColors": [
+                        6,
+                        4,
+                        6,
+                        4
+                    ],
+                    "storedPieceIndexes": []
+                }
+            ],
+            "storesBoxPlacements": true,
+            "boxes": []
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+  "file": "/Users/ayseakbal/Desktop/blender class/carmatchcar3 copy.blend",
+  "scene": "Scene",
+  "unit_system": "METRIC",
+  "objects": [
+    {
+      "name": "Camera",
+      "type": "CAMERA",
+      "location": [
+        7.35889,
+        -6.92579,
+        4.95831
+      ],
+      "rotation_euler": [
+        1.10932,
+        0.0,
+        0.81493
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent": null,
+      "hidden_render": false
+    },
+    {
+      "name": "car",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.11479,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        2.04043,
+        2.7212,
+        1.61321
+      ],
+      "parent": null,
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 369,
+        "edges": 632,
+        "polygons": 254,
+        "triangles_evaluated": 700,
+        "boundary_edges": 56,
+        "non_manifold_edges": 56,
+        "modifiers": [],
+        "materials": [
+          "Material"
+        ]
+      }
+    },
+    {
+      "name": "light",
+      "type": "MESH",
+      "location": [
+        0.72881,
+        -0.94097,
+        0.36511
+      ],
+      "rotation_euler": [
+        1.5708,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        1.97945,
+        0.40233,
+        0.40233
+      ],
+      "parent": null,
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 128,
+        "edges": 224,
+        "polygons": 100,
+        "triangles_evaluated": 248,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": []
+      }
+    },
+    {
+      "name": "tires",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.11479,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        2.13345,
+        2.14149,
+        0.82057
+      ],
+      "parent": null,
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 768,
+        "edges": 1440,
+        "polygons": 680,
+        "triangles_evaluated": 1520,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "Material"
+        ]
+      }
+    },
+    {
+      "name": "window",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.11479,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        1.9777,
+        1.68501,
+        0.80558
+      ],
+      "parent": null,
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 100,
+        "edges": 160,
+        "polygons": 64,
+        "triangles_evaluated": 256,
+        "boundary_edges": 64,
+        "non_manifold_edges": 64,
+        "modifiers": [
+          "MIRROR",
+          "NODES"
+        ],
+        "materials": [
+          "Material"
+        ]
+      }
+    },
+    {
+      "name": "window.sides",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.11479,
+        0.02014
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        2.09772,
+        1.61804,
+        0.84345
+      ],
+      "parent": null,
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 3360,
+        "edges": 6720,
+        "polygons": 3360,
+        "triangles_evaluated": 6720,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": []
+      }
+    }
+  ]
+}

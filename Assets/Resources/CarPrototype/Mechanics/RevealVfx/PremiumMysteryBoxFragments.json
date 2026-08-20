@@ -1,0 +1,172 @@
+{
+  "fragments": [
+    {
+      "name": "Upper Left Bolted Board",
+      "atlasIndex": 0,
+      "centerX": -0.15558292282430214,
+      "centerY": 0.30518977536793185,
+      "width": 0.31444991789819376,
+      "height": 0.17428350116189,
+      "uvX": 0.0,
+      "uvY": 0.75,
+      "uvWidth": 0.25,
+      "uvHeight": 0.25
+    },
+    {
+      "name": "Upper Right Bolted Board",
+      "atlasIndex": 1,
+      "centerX": 0.16050903119868642,
+      "centerY": 0.2970565453137103,
+      "width": 0.3045977011494253,
+      "height": 0.19054996127033308,
+      "uvX": 0.25,
+      "uvY": 0.75,
+      "uvWidth": 0.25,
+      "uvHeight": 0.25
+    },
+    {
+      "name": "Lower Left L Board",
+      "atlasIndex": 2,
+      "centerX": -0.24261083743842365,
+      "centerY": -0.1928737412858249,
+      "width": 0.16338259441707717,
+      "height": 0.3772269558481797,
+      "uvX": 0.5,
+      "uvY": 0.75,
+      "uvWidth": 0.25,
+      "uvHeight": 0.25
+    },
+    {
+      "name": "Lower Right Rail",
+      "atlasIndex": 3,
+      "centerX": 0.23891625615763545,
+      "centerY": -0.227730441518203,
+      "width": 0.16912972085385877,
+      "height": 0.3075135553834237,
+      "uvX": 0.75,
+      "uvY": 0.75,
+      "uvWidth": 0.25,
+      "uvHeight": 0.25
+    },
+    {
+      "name": "Lower Front Plate",
+      "atlasIndex": 4,
+      "centerX": -0.014367816091954033,
+      "centerY": -0.3284275755228505,
+      "width": 0.4917898193760263,
+      "height": 0.10611928737412858,
+      "uvX": 0.0,
+      "uvY": 0.5,
+      "uvWidth": 0.25,
+      "uvHeight": 0.25
+    },
+    {
+      "name": "Mid Right Bolted Block",
+      "atlasIndex": 5,
+      "centerX": 0.20730706075533667,
+      "centerY": 0.09256390395042602,
+      "width": 0.20935960591133004,
+      "height": 0.2308288148721921,
+      "uvX": 0.25,
+      "uvY": 0.5,
+      "uvWidth": 0.25,
+      "uvHeight": 0.25
+    },
+    {
+      "name": "Right Horizontal Slat",
+      "atlasIndex": 6,
+      "centerX": 0.2655993431855501,
+      "centerY": -0.03137103020914023,
+      "width": 0.1174055829228243,
+      "height": 0.17815646785437644,
+      "uvX": 0.5,
+      "uvY": 0.5,
+      "uvWidth": 0.25,
+      "uvHeight": 0.25
+    },
+    {
+      "name": "Upper Right Wedge",
+      "atlasIndex": 7,
+      "centerX": 0.13998357963875208,
+      "centerY": 0.22927962819519754,
+      "width": 0.2766830870279146,
+      "height": 0.2703330751355538,
+      "uvX": 0.75,
+      "uvY": 0.5,
+      "uvWidth": 0.25,
+      "uvHeight": 0.25
+    },
+    {
+      "name": "Left Middle Wedge",
+      "atlasIndex": 8,
+      "centerX": -0.2142857142857143,
+      "centerY": 0.10418280402788538,
+      "width": 0.1986863711001642,
+      "height": 0.24167312161115415,
+      "uvX": 0.0,
+      "uvY": 0.25,
+      "uvWidth": 0.25,
+      "uvHeight": 0.25
+    },
+    {
+      "name": "Left Upper Chip",
+      "atlasIndex": 9,
+      "centerX": -0.10426929392446632,
+      "centerY": 0.23741285824941905,
+      "width": 0.24302134646962234,
+      "height": 0.29434546862896976,
+      "uvX": 0.25,
+      "uvY": 0.25,
+      "uvWidth": 0.25,
+      "uvHeight": 0.25
+    },
+    {
+      "name": "Left Lower Chip",
+      "atlasIndex": 10,
+      "centerX": -0.07963875205254517,
+      "centerY": -0.14329976762199848,
+      "width": 0.19704433497536947,
+      "height": 0.31216111541440744,
+      "uvX": 0.5,
+      "uvY": 0.25,
+      "uvWidth": 0.25,
+      "uvHeight": 0.25
+    },
+    {
+      "name": "Right Small Chip",
+      "atlasIndex": 11,
+      "centerX": 0.11699507389162567,
+      "centerY": -0.11192873741285825,
+      "width": 0.21264367816091953,
+      "height": 0.2370255615801704,
+      "uvX": 0.75,
+      "uvY": 0.25,
+      "uvWidth": 0.25,
+      "uvHeight": 0.25
+    },
+    {
+      "name": "Lower Center Chip",
+      "atlasIndex": 12,
+      "centerX": 0.04844006568144499,
+      "centerY": -0.2339271882261813,
+      "width": 0.33169129720853857,
+      "height": 0.2532920216886135,
+      "uvX": 0.0,
+      "uvY": 0.0,
+      "uvWidth": 0.25,
+      "uvHeight": 0.25
+    },
+    {
+      "name": "Central Upper Chip",
+      "atlasIndex": 13,
+      "centerX": -0.003284072249589487,
+      "centerY": 0.03834237025561582,
+      "width": 0.23973727422003285,
+      "height": 0.20759101471727343,
+      "uvX": 0.25,
+      "uvY": 0.0,
+      "uvWidth": 0.25,
+      "uvHeight": 0.25
+    }
+  ]
+}

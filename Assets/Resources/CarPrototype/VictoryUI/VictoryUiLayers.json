@@ -1,0 +1,82 @@
+{
+  "source_width": 1888,
+  "source_height": 2246,
+  "word": {
+    "x": 490,
+    "y": 525,
+    "width": 949,
+    "height": 222
+  },
+  "letters": [
+    {
+      "x": 490,
+      "y": 529,
+      "width": 155,
+      "height": 216,
+      "name": "P"
+    },
+    {
+      "x": 645,
+      "y": 529,
+      "width": 115,
+      "height": 216,
+      "name": "E"
+    },
+    {
+      "x": 760,
+      "y": 529,
+      "width": 120,
+      "height": 215,
+      "name": "R"
+    },
+    {
+      "x": 880,
+      "y": 530,
+      "width": 115,
+      "height": 213,
+      "name": "F"
+    },
+    {
+      "x": 995,
+      "y": 529,
+      "width": 115,
+      "height": 214,
+      "name": "E2"
+    },
+    {
+      "x": 1110,
+      "y": 525,
+      "width": 120,
+      "height": 222,
+      "name": "C"
+    },
+    {
+      "x": 1230,
+      "y": 527,
+      "width": 105,
+      "height": 215,
+      "name": "T"
+    },
+    {
+      "x": 1335,
+      "y": 527,
+      "width": 104,
+      "height": 216,
+      "name": "Bang"
+    }
+  ],
+  "buttons": {
+    "ContinueButton": {
+      "x": 297,
+      "y": 975,
+      "width": 578,
+      "height": 234
+    },
+    "CloseButton": {
+      "x": 914,
+      "y": 142,
+      "width": 131,
+      "height": 131
+    }
+  }
+}

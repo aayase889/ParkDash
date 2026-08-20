@@ -1,0 +1,989 @@
+{
+  "file": "/Users/ayseakbal/colorarrows-2D-backup/Blender/CarVariants/rounded_compact_car_v1.blend",
+  "scene": "RoundedCompactCar",
+  "unit_system": "METRIC",
+  "objects": [
+    {
+      "name": "Body_Cabin",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        1.92,
+        1.68,
+        0.92
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 40,
+        "edges": 72,
+        "polygons": 34,
+        "triangles_evaluated": 76,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_BodyPaint"
+        ]
+      }
+    },
+    {
+      "name": "Body_Lower",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.28,
+        0.02
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        1.98,
+        2.68,
+        0.78
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 56,
+        "edges": 108,
+        "polygons": 54,
+        "triangles_evaluated": 108,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_BodyPaint"
+        ]
+      }
+    },
+    {
+      "name": "Bumper_Front",
+      "type": "MESH",
+      "location": [
+        0.0,
+        -1.135,
+        -0.17
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        1.84,
+        0.18,
+        0.18
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 24,
+        "edges": 48,
+        "polygons": 26,
+        "triangles_evaluated": 44,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_Bumper"
+        ]
+      }
+    },
+    {
+      "name": "Bumper_Rear",
+      "type": "MESH",
+      "location": [
+        0.0,
+        1.645,
+        -0.16
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        1.76,
+        0.16,
+        0.17
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 24,
+        "edges": 48,
+        "polygons": 26,
+        "triangles_evaluated": 44,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_Bumper"
+        ]
+      }
+    },
+    {
+      "name": "CarVariant_RoundedCompact_ROOT",
+      "type": "EMPTY",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent": null,
+      "hidden_render": false
+    },
+    {
+      "name": "Fender_Front_L",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.06,
+        0.97,
+        0.485
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 36,
+        "edges": 68,
+        "polygons": 34,
+        "triangles_evaluated": 68,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_BodyPaint"
+        ]
+      }
+    },
+    {
+      "name": "Fender_Front_R",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.06,
+        0.97,
+        0.485
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 36,
+        "edges": 68,
+        "polygons": 34,
+        "triangles_evaluated": 68,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_BodyPaint"
+        ]
+      }
+    },
+    {
+      "name": "Fender_Rear_L",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.06,
+        0.97,
+        0.485
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 36,
+        "edges": 68,
+        "polygons": 34,
+        "triangles_evaluated": 68,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_BodyPaint"
+        ]
+      }
+    },
+    {
+      "name": "Fender_Rear_R",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.06,
+        0.97,
+        0.485
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 36,
+        "edges": 68,
+        "polygons": 34,
+        "triangles_evaluated": 68,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_BodyPaint"
+        ]
+      }
+    },
+    {
+      "name": "Grille_Front",
+      "type": "MESH",
+      "location": [
+        0.0,
+        -1.073,
+        -0.005
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.88,
+        0.035,
+        0.17
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 24,
+        "edges": 48,
+        "polygons": 26,
+        "triangles_evaluated": 44,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_Grille"
+        ]
+      }
+    },
+    {
+      "name": "Headlight_L",
+      "type": "MESH",
+      "location": [
+        -0.67,
+        -1.115,
+        0.19
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.45,
+        0.1135,
+        0.45
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 48,
+        "edges": 72,
+        "polygons": 28,
+        "triangles_evaluated": 88,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_BodyPaint",
+          "MAT_Headlight"
+        ]
+      }
+    },
+    {
+      "name": "Headlight_R",
+      "type": "MESH",
+      "location": [
+        0.67,
+        -1.115,
+        0.19
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.45,
+        0.1135,
+        0.45
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 48,
+        "edges": 72,
+        "polygons": 28,
+        "triangles_evaluated": 88,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_BodyPaint",
+          "MAT_Headlight"
+        ]
+      }
+    },
+    {
+      "name": "Mirror_L",
+      "type": "MESH",
+      "location": [
+        -1.035,
+        -0.02,
+        0.73
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.1932,
+        0.22967,
+        0.234
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 12,
+        "edges": 30,
+        "polygons": 20,
+        "triangles_evaluated": 20,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_BodyPaint"
+        ]
+      }
+    },
+    {
+      "name": "Mirror_R",
+      "type": "MESH",
+      "location": [
+        1.035,
+        -0.02,
+        0.73
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.1932,
+        0.22967,
+        0.234
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 12,
+        "edges": 30,
+        "polygons": 20,
+        "triangles_evaluated": 20,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_BodyPaint"
+        ]
+      }
+    },
+    {
+      "name": "TailLight_L",
+      "type": "MESH",
+      "location": [
+        -0.67,
+        1.636,
+        0.12
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.28,
+        0.075,
+        0.2663
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 20,
+        "edges": 30,
+        "polygons": 12,
+        "triangles_evaluated": 36,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_TailLight"
+        ]
+      }
+    },
+    {
+      "name": "TailLight_R",
+      "type": "MESH",
+      "location": [
+        0.67,
+        1.636,
+        0.12
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.28,
+        0.075,
+        0.2663
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 20,
+        "edges": 30,
+        "polygons": 12,
+        "triangles_evaluated": 36,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_TailLight"
+        ]
+      }
+    },
+    {
+      "name": "Wheel_FL",
+      "type": "MESH",
+      "location": [
+        -1.02,
+        -0.34,
+        -0.28
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.305,
+        0.82,
+        0.79944
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 80,
+        "edges": 134,
+        "polygons": 58,
+        "triangles_evaluated": 152,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_Tire",
+          "MAT_WheelHub"
+        ]
+      }
+    },
+    {
+      "name": "Wheel_FR",
+      "type": "MESH",
+      "location": [
+        1.02,
+        -0.34,
+        -0.28
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.305,
+        0.82,
+        0.79944
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 80,
+        "edges": 134,
+        "polygons": 58,
+        "triangles_evaluated": 152,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_Tire",
+          "MAT_WheelHub"
+        ]
+      }
+    },
+    {
+      "name": "Wheel_RL",
+      "type": "MESH",
+      "location": [
+        -1.02,
+        1.02,
+        -0.28
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.305,
+        0.82,
+        0.79944
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 80,
+        "edges": 134,
+        "polygons": 58,
+        "triangles_evaluated": 152,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_Tire",
+          "MAT_WheelHub"
+        ]
+      }
+    },
+    {
+      "name": "Wheel_RR",
+      "type": "MESH",
+      "location": [
+        1.02,
+        1.02,
+        -0.28
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.305,
+        0.82,
+        0.79944
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 80,
+        "edges": 134,
+        "polygons": 58,
+        "triangles_evaluated": 152,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_Tire",
+          "MAT_WheelHub"
+        ]
+      }
+    },
+    {
+      "name": "Window_Front",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        1.52592,
+        0.26526,
+        0.61753
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 36,
+        "edges": 72,
+        "polygons": 38,
+        "triangles_evaluated": 68,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_GlassPlaceholder"
+        ]
+      }
+    },
+    {
+      "name": "Window_Rear",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        1.24712,
+        0.07416,
+        0.60833
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 32,
+        "edges": 62,
+        "polygons": 32,
+        "triangles_evaluated": 60,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_GlassPlaceholder"
+        ]
+      }
+    },
+    {
+      "name": "Window_Side_Front_L",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.09618,
+        0.70453,
+        0.6941
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 36,
+        "edges": 72,
+        "polygons": 38,
+        "triangles_evaluated": 68,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_GlassPlaceholder"
+        ]
+      }
+    },
+    {
+      "name": "Window_Side_Front_R",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.09618,
+        0.70453,
+        0.6941
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 36,
+        "edges": 72,
+        "polygons": 38,
+        "triangles_evaluated": 68,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_GlassPlaceholder"
+        ]
+      }
+    },
+    {
+      "name": "Window_Side_Rear_L",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.11655,
+        0.71384,
+        0.69469
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 36,
+        "edges": 72,
+        "polygons": 38,
+        "triangles_evaluated": 68,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_GlassPlaceholder"
+        ]
+      }
+    },
+    {
+      "name": "Window_Side_Rear_R",
+      "type": "MESH",
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation_euler": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.11655,
+        0.71384,
+        0.69469
+      ],
+      "parent": "CarVariant_RoundedCompact_ROOT",
+      "hidden_render": false,
+      "mesh": {
+        "vertices": 36,
+        "edges": 72,
+        "polygons": 38,
+        "triangles_evaluated": 68,
+        "boundary_edges": 0,
+        "non_manifold_edges": 0,
+        "modifiers": [],
+        "materials": [
+          "MAT_GlassPlaceholder"
+        ]
+      }
+    }
+  ]
+}

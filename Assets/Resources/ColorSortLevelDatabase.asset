@@ -1,0 +1,5390 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f7432f5a3b7042689f7d848e56084c1, type: 3}
+  m_Name: ColorSortLevelDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::ColorSortLevelDatabase
+  levels:
+  - id: 1
+    name: Board 1
+    boardSize: 3
+    matchTarget: 3
+    blocks:
+    - row: 0
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 0
+      col: 1
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 2
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 2
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 2
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+  - id: 2
+    name: Board 2
+    boardSize: 3
+    matchTarget: 3
+    blocks:
+    - row: 0
+      col: 0
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 0
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 2
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 2
+      color: 0
+      direction: 1
+      textLabel: RED
+  - id: 3
+    name: Board 3
+    boardSize: 3
+    matchTarget: 3
+    blocks:
+    - row: 0
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 0
+      col: 1
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 0
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 2
+      col: 2
+      color: 1
+      direction: 1
+      textLabel: GREEN
+  - id: 4
+    name: Board 4
+    boardSize: 3
+    matchTarget: 3
+    blocks:
+    - row: 0
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 1
+      col: 2
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 2
+      color: 0
+      direction: 3
+      textLabel: RED
+  - id: 5
+    name: Board 5
+    boardSize: 3
+    matchTarget: 3
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 2
+      col: 0
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 2
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+  - id: 6
+    name: Board 6
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 0
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 2
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 2
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 0
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 2
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 3
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+  - id: 7
+    name: Board 7
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 0
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 0
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 0
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 1
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 2
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 2
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 3
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+  - id: 8
+    name: Board 8
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 0
+      col: 1
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 1
+      col: 2
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 1
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 2
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+  - id: 9
+    name: Board 9
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 0
+      col: 1
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 1
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 2
+      col: 0
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 2
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 2
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 3
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+  - id: 10
+    name: Board 10
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 0
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 1
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 2
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 2
+      col: 1
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 2
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 1
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+  - id: 11
+    name: Board 11
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 1
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 2
+      col: 1
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 2
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 3
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 3
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+  - id: 12
+    name: Board 12
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 0
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 0
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 2
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 2
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 3
+      col: 0
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+  - id: 13
+    name: Board 13
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 0
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 2
+      col: 1
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 2
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 2
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 1
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 3
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+  - id: 14
+    name: Board 14
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 0
+      col: 1
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 0
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 1
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 2
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 2
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 2
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 3
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 2
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 3
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+  - id: 15
+    name: Board 15
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 0
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 2
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 3
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 3
+      col: 2
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+  - id: 16
+    name: Board 16
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 0
+      col: 1
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 0
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 1
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 1
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 2
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 2
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 3
+      col: 2
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+  - id: 17
+    name: Board 17
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 1
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 2
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 2
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 3
+      col: 0
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 3
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 2
+      direction: 3
+      textLabel: BLUE
+  - id: 18
+    name: Board 18
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 0
+      col: 1
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 3
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 1
+      col: 0
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 1
+      col: 2
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 1
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 0
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 2
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 2
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 3
+      col: 2
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+  - id: 19
+    name: Board 19
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 0
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 2
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 0
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 2
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 3
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+  - id: 20
+    name: Board 20
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 0
+      col: 1
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 1
+      col: 2
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 3
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 2
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 2
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 0
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 3
+      col: 1
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 2
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+  - id: 21
+    name: Board 21
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 0
+      col: 1
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 0
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 1
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 2
+      direction: 2
+      textLabel: BLUE
+  - id: 22
+    name: Board 22
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 0
+      col: 1
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 1
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 2
+      col: 0
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 2
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 2
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 3
+      col: 0
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 2
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+  - id: 23
+    name: Board 23
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 0
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 0
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 0
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 1
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 2
+      col: 0
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 2
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 2
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 3
+      col: 0
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 2
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+  - id: 24
+    name: Board 24
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 0
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 2
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 3
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+  - id: 25
+    name: Board 25
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 0
+      col: 1
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 1
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 2
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 2
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 3
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 3
+      col: 0
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 3
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+  - id: 26
+    name: Board 26
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 0
+      col: 1
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 1
+      col: 2
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 2
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 2
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 3
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 3
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 2
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 3
+      color: 0
+      direction: 2
+      textLabel: RED
+  - id: 27
+    name: Board 27
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 0
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 0
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 1
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 3
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 2
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 2
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 0
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 3
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 3
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+  - id: 28
+    name: Board 28
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 1
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 0
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 1
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 2
+      col: 3
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 3
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+  - id: 29
+    name: Board 29
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 0
+      col: 1
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 0
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 2
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 1
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 2
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 3
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 3
+      col: 2
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 3
+      col: 3
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+  - id: 30
+    name: Board 30
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 0
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 0
+      col: 2
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 0
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 1
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 2
+      col: 0
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 2
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 3
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 2
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 3
+      col: 3
+      color: 1
+      direction: 1
+      textLabel: GREEN
+  - id: 31
+    name: Board 31
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 0
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 1
+      col: 1
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 2
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 2
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 3
+      col: 0
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 2
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+  - id: 32
+    name: Board 32
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 0
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 0
+      col: 2
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 1
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 2
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 2
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 2
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 0
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 3
+      col: 2
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 3
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+  - id: 33
+    name: Board 33
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 0
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 1
+      col: 2
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 2
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 2
+      col: 2
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 2
+      col: 3
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 0
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 3
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 2
+      direction: 2
+      textLabel: BLUE
+  - id: 34
+    name: Board 34
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 0
+      col: 3
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 1
+      col: 0
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 2
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 1
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 2
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 1
+      direction: 1
+      textLabel: GREEN
+  - id: 35
+    name: Board 35
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 2
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 1
+      col: 2
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 2
+      col: 0
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 0
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 3
+      col: 1
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 3
+      col: 2
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+  - id: 36
+    name: Board 36
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 0
+      col: 1
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 3
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 1
+      col: 0
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 2
+      col: 0
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 2
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+  - id: 37
+    name: Board 37
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 2
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 2
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 0
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 3
+      col: 1
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+  - id: 38
+    name: Board 38
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 0
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 2
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 1
+      col: 1
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 2
+      col: 0
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 2
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 2
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 3
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 2
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 3
+      color: 1
+      direction: 2
+      textLabel: GREEN
+  - id: 39
+    name: Board 39
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 0
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 1
+      col: 2
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 1
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 2
+      col: 0
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 2
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 3
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 2
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+  - id: 40
+    name: Board 40
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 0
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 1
+      col: 1
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 1
+      col: 2
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 2
+      col: 0
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 2
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 3
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+  - id: 41
+    name: Board 41
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 0
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 1
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 2
+      col: 0
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 3
+      col: 2
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+  - id: 42
+    name: Board 42
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 0
+      col: 1
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 0
+      col: 2
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 0
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 2
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 3
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 2
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 2
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 2
+      direction: 3
+      textLabel: BLUE
+  - id: 43
+    name: Board 43
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 0
+      col: 2
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 1
+      col: 1
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 2
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 2
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 1
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 3
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 2
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+  - id: 44
+    name: Board 44
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 0
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 0
+      col: 2
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 0
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 1
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 2
+      col: 1
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 2
+      col: 2
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 3
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 3
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 2
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 3
+      color: 2
+      direction: 3
+      textLabel: BLUE
+  - id: 45
+    name: Board 45
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 0
+      col: 1
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 0
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 1
+      col: 1
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 2
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 2
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 3
+      col: 2
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+  - id: 46
+    name: Board 46
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 0
+      col: 2
+      color: 3
+      direction: 2
+      textLabel: YELLOW
+    - row: 0
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 1
+      col: 1
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 1
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 2
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 2
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 3
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+  - id: 47
+    name: Board 47
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 2
+      color: 3
+      direction: 3
+      textLabel: YELLOW
+    - row: 0
+      col: 3
+      color: 3
+      direction: 3
+      textLabel: YELLOW
+    - row: 1
+      col: 0
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 1
+      col: 1
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 2
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 0
+      color: 3
+      direction: 2
+      textLabel: YELLOW
+    - row: 2
+      col: 1
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 2
+      col: 2
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 2
+      col: 3
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 3
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 3
+      col: 2
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 3
+      col: 3
+      color: 1
+      direction: 1
+      textLabel: GREEN
+  - id: 48
+    name: Board 48
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 3
+      direction: 3
+      textLabel: YELLOW
+    - row: 0
+      col: 1
+      color: 3
+      direction: 3
+      textLabel: YELLOW
+    - row: 0
+      col: 2
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 0
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 1
+      col: 1
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 1
+      col: 2
+      color: 3
+      direction: 2
+      textLabel: YELLOW
+    - row: 1
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 2
+      col: 0
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 2
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 3
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 3
+      col: 2
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 3
+      col: 3
+      color: 1
+      direction: 1
+      textLabel: GREEN
+  - id: 49
+    name: Board 49
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 0
+      col: 2
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 0
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 1
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 1
+      col: 2
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 3
+      direction: 3
+      textLabel: YELLOW
+    - row: 2
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 2
+      color: 3
+      direction: 3
+      textLabel: YELLOW
+    - row: 2
+      col: 3
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 0
+      color: 3
+      direction: 2
+      textLabel: YELLOW
+    - row: 3
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 3
+      col: 2
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 3
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+  - id: 50
+    name: Board 50
+    boardSize: 4
+    matchTarget: 4
+    blocks:
+    - row: 0
+      col: 0
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 0
+      col: 1
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 0
+      col: 2
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 1
+      col: 1
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 1
+      col: 2
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 2
+      col: 1
+      color: 3
+      direction: 2
+      textLabel: YELLOW
+    - row: 2
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 2
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 3
+      col: 2
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 3
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+  - id: 51
+    name: Board 51
+    boardSize: 5
+    matchTarget: 5
+    blocks:
+    - row: 0
+      col: 0
+      color: 3
+      direction: 3
+      textLabel: YELLOW
+    - row: 0
+      col: 1
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 0
+      col: 4
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 1
+      col: 1
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 2
+      color: 3
+      direction: 3
+      textLabel: YELLOW
+    - row: 1
+      col: 3
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 1
+      col: 4
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 2
+      col: 0
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 2
+      col: 1
+      color: 3
+      direction: 2
+      textLabel: YELLOW
+    - row: 2
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 2
+      col: 4
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 3
+      col: 2
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 3
+      col: 3
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 3
+      col: 4
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 4
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 4
+      col: 1
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 4
+      col: 2
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 4
+      col: 3
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 4
+      col: 4
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+  - id: 52
+    name: Board 52
+    boardSize: 5
+    matchTarget: 5
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 0
+      col: 2
+      color: 3
+      direction: 3
+      textLabel: YELLOW
+    - row: 0
+      col: 3
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 4
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 1
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 1
+      col: 2
+      color: 3
+      direction: 2
+      textLabel: YELLOW
+    - row: 1
+      col: 3
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 1
+      col: 4
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 2
+      col: 0
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 2
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 2
+      col: 4
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 3
+      col: 1
+      color: 3
+      direction: 2
+      textLabel: YELLOW
+    - row: 3
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 3
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 3
+      col: 4
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 4
+      col: 0
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 4
+      col: 1
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 4
+      col: 2
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 4
+      col: 3
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 4
+      col: 4
+      color: 0
+      direction: 3
+      textLabel: RED
+  - id: 53
+    name: Board 53
+    boardSize: 5
+    matchTarget: 5
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 4
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 0
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 1
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 1
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 4
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 2
+      col: 1
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 2
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 4
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 0
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 3
+      col: 1
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 3
+      col: 2
+      color: 3
+      direction: 2
+      textLabel: YELLOW
+    - row: 3
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 3
+      col: 4
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 4
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 4
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 4
+      col: 2
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 4
+      col: 3
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 4
+      col: 4
+      color: 0
+      direction: 1
+      textLabel: RED
+  - id: 54
+    name: Board 54
+    boardSize: 5
+    matchTarget: 5
+    blocks:
+    - row: 0
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 0
+      col: 1
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 3
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 4
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 1
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 1
+      col: 1
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 2
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 1
+      col: 3
+      color: 3
+      direction: 2
+      textLabel: YELLOW
+    - row: 1
+      col: 4
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 2
+      col: 1
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 2
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 2
+      col: 4
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 3
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 3
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 3
+      col: 2
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 3
+      col: 3
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 3
+      col: 4
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 4
+      col: 0
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 4
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 4
+      col: 2
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 4
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 4
+      col: 4
+      color: 1
+      direction: 1
+      textLabel: GREEN
+  - id: 55
+    name: Board 55
+    boardSize: 5
+    matchTarget: 5
+    blocks:
+    - row: 0
+      col: 0
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 4
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 1
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 1
+      col: 2
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 1
+      col: 3
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 1
+      col: 4
+      color: 3
+      direction: 3
+      textLabel: YELLOW
+    - row: 2
+      col: 0
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 2
+      col: 1
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 2
+      col: 2
+      color: 3
+      direction: 3
+      textLabel: YELLOW
+    - row: 2
+      col: 3
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 2
+      col: 4
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 3
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 3
+      col: 1
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 3
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 4
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 4
+      col: 0
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 4
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 4
+      col: 2
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 4
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 4
+      col: 4
+      color: 0
+      direction: 1
+      textLabel: RED
+  - id: 56
+    name: Board 56
+    boardSize: 5
+    matchTarget: 5
+    blocks:
+    - row: 0
+      col: 0
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 0
+      col: 1
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 0
+      col: 3
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 0
+      col: 4
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 1
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 1
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 1
+      col: 4
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 2
+      col: 1
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 2
+      col: 2
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 3
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 2
+      col: 4
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 3
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 3
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 3
+      col: 2
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 3
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 3
+      col: 4
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 4
+      col: 0
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 4
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 4
+      col: 2
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 4
+      col: 3
+      color: 3
+      direction: 3
+      textLabel: YELLOW
+    - row: 4
+      col: 4
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+  - id: 57
+    name: Board 57
+    boardSize: 5
+    matchTarget: 5
+    blocks:
+    - row: 0
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 1
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 2
+      color: 3
+      direction: 2
+      textLabel: YELLOW
+    - row: 0
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 4
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 1
+      col: 0
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 1
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 1
+      col: 2
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 1
+      col: 4
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 1
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 2
+      col: 2
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 3
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 2
+      col: 4
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 0
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 3
+      col: 1
+      color: 3
+      direction: 2
+      textLabel: YELLOW
+    - row: 3
+      col: 2
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 3
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 3
+      col: 4
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 4
+      col: 0
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 4
+      col: 1
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 4
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 4
+      col: 3
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 4
+      col: 4
+      color: 0
+      direction: 1
+      textLabel: RED
+  - id: 58
+    name: Board 58
+    boardSize: 5
+    matchTarget: 5
+    blocks:
+    - row: 0
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 0
+      col: 1
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 0
+      col: 2
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 4
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 1
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 1
+      col: 1
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 1
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 3
+      direction: 3
+      textLabel: YELLOW
+    - row: 1
+      col: 4
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 2
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 2
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 2
+      col: 2
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 2
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 2
+      col: 4
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 3
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 3
+      col: 1
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 3
+      col: 2
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 3
+      color: 3
+      direction: 2
+      textLabel: YELLOW
+    - row: 3
+      col: 4
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 4
+      col: 0
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 4
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 4
+      col: 2
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 4
+      col: 3
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 4
+      col: 4
+      color: 0
+      direction: 1
+      textLabel: RED
+  - id: 59
+    name: Board 59
+    boardSize: 5
+    matchTarget: 5
+    blocks:
+    - row: 0
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 0
+      col: 2
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 0
+      col: 3
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 0
+      col: 4
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 1
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 1
+      col: 2
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 1
+      col: 3
+      color: 2
+      direction: 0
+      textLabel: BLUE
+    - row: 1
+      col: 4
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 2
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 2
+      col: 1
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 2
+      col: 2
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 2
+      col: 3
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 2
+      col: 4
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 3
+      col: 0
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 3
+      col: 1
+      color: 3
+      direction: 2
+      textLabel: YELLOW
+    - row: 3
+      col: 2
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 3
+      col: 3
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 3
+      col: 4
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 4
+      col: 0
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 4
+      col: 1
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 4
+      col: 2
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 4
+      col: 3
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 4
+      col: 4
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+  - id: 60
+    name: Board 60
+    boardSize: 5
+    matchTarget: 5
+    blocks:
+    - row: 0
+      col: 0
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 0
+      col: 1
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 2
+      color: 1
+      direction: 0
+      textLabel: GREEN
+    - row: 0
+      col: 3
+      color: 2
+      direction: 2
+      textLabel: BLUE
+    - row: 0
+      col: 4
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 1
+      col: 0
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 1
+      col: 1
+      color: 0
+      direction: 0
+      textLabel: RED
+    - row: 1
+      col: 2
+      color: 4
+      direction: 0
+      textLabel: BLOCK
+    - row: 1
+      col: 3
+      color: 3
+      direction: 0
+      textLabel: YELLOW
+    - row: 1
+      col: 4
+      color: 4
+      direction: 3
+      textLabel: BLOCK
+    - row: 2
+      col: 0
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 2
+      col: 1
+      color: 3
+      direction: 3
+      textLabel: YELLOW
+    - row: 2
+      col: 2
+      color: 3
+      direction: 1
+      textLabel: YELLOW
+    - row: 2
+      col: 3
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 2
+      col: 4
+      color: 2
+      direction: 1
+      textLabel: BLUE
+    - row: 3
+      col: 0
+      color: 1
+      direction: 2
+      textLabel: GREEN
+    - row: 3
+      col: 1
+      color: 4
+      direction: 2
+      textLabel: BLOCK
+    - row: 3
+      col: 2
+      color: 2
+      direction: 3
+      textLabel: BLUE
+    - row: 3
+      col: 3
+      color: 0
+      direction: 3
+      textLabel: RED
+    - row: 3
+      col: 4
+      color: 1
+      direction: 3
+      textLabel: GREEN
+    - row: 4
+      col: 0
+      color: 4
+      direction: 1
+      textLabel: BLOCK
+    - row: 4
+      col: 1
+      color: 1
+      direction: 1
+      textLabel: GREEN
+    - row: 4
+      col: 2
+      color: 0
+      direction: 2
+      textLabel: RED
+    - row: 4
+      col: 3
+      color: 0
+      direction: 1
+      textLabel: RED
+    - row: 4
+      col: 4
+      color: 2
+      direction: 3
+      textLabel: BLUE

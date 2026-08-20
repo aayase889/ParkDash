@@ -1,0 +1,65 @@
+# Apple ModelI/O MTL File: purplecarrpro_7.mtl
+
+newmtl Purple_Coated_Glitter
+	map_Kd Purple_Coated_Glitter-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Purple_Coated_Glitter-metallic.png
+	specularTint 0
+	map_roughness Purple_Coated_Glitter-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl Material.004
+	map_Kd Material.004-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Material.004-metallic.png
+	specularTint 0
+	map_roughness Material.004-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl Material
+	map_Kd Material-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Material-metallic.png
+	specularTint 0
+	map_roughness Material-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl Material.005
+	map_Kd Material.005-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic Material.005-metallic.png
+	specularTint 0
+	map_roughness Material.005-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
